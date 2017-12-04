@@ -16,7 +16,7 @@
    id="svg7929"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="blue-path.svg"
+   sodipodi:docname="grey256V2.svg"
    inkscape:export-filename="/home/kratenko/Projects/deepcyber/blue1024.png"
    inkscape:export-xdpi="412.02069"
    inkscape:export-ydpi="412.02069">
@@ -1377,7 +1377,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="backBlack"
-     style="display:inline"
+     style="display:none"
      transform="translate(-125.49445,-4.0121002)"
      sodipodi:insensitive="true">
     <rect
@@ -1407,7 +1407,7 @@
      id="layer5"
      inkscape:label="shine"
      transform="translate(-125.49445,-4.0121002)"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <circle
        style="fill:url(#radialGradient13470);fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -1421,7 +1421,7 @@
      inkscape:label="gridColGrad"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
+     style="display:none"
      transform="translate(-125.49445,-4.0121002)"
      sodipodi:insensitive="true">
     <g
@@ -1442,7 +1442,7 @@
   </g>
   <g
      transform="translate(-125.49445,-4.0121002)"
-     style="display:none"
+     style="display:inline"
      id="g5431"
      inkscape:groupmode="layer"
      inkscape:label="gridBlack"
@@ -1615,7 +1615,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      transform="translate(-125.49445,-4.0121002)"
      inkscape:label="topColV2"
      id="g5391"
@@ -1720,7 +1720,7 @@
     </g>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(-125.49445,-4.0121002)"
      inkscape:label="topBlack"
      id="g5447"
